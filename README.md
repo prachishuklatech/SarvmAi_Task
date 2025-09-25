@@ -109,6 +109,9 @@ aartti       aarti
 ✔ Hybrid approach (Fuzzy + Phonetic) for better accuracy
 ✔ Easy to run in Google Colab or locally
 
+Accuracy Calculation-
+checked the accuracy of the model by comaparing it woth a ground truth file with all the correct words, I got the Accuracy of 97 percent. I am having future plans to increase the accuracy of the model.
+
 📜 Future Improvements
 
 Support for multi-word phrases
